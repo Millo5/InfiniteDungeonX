@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "attached=false,disarmed=false,east=false,north=false,powered=false,south=false,west=false": {
+      "model": "custom/blocks/walls/stripped_spruce_wall"
+    },
+	"attached=true,disarmed=false,east=false,north=false,powered=false,south=false,west=false": {
+      "model": "custom/blocks/walls/stripped_oak_wall"
+    },
+	"attached=false,disarmed=true,east=false,north=false,powered=false,south=false,west=false": {
+      "model": "custom/blocks/walls/oak_wall"
+    },
+	"attached=false,disarmed=false,east=false,north=false,powered=true,south=false,west=false": {
+      "model": "custom/decorations/pot_bunch"
+    },
+	"attached=true,disarmed=false,east=false,north=false,powered=true,south=false,west=false": {
+      "model": "custom/decorations/plants/shroom_bunch"
+    },
+	"attached=true,disarmed=true,east=false,north=false,powered=true,south=false,west=false": {
+      "model": "custom/decorations/pouches/pouch_sandshroom"
+    },
+	"attached=false,disarmed=false,east=true,north=false,powered=true,south=false,west=false": {
+      "model": "custom/decorations/pouches/pouch_shineshroom"
+    },
+	"attached=true,disarmed=false,east=true,north=false,powered=true,south=false,west=false": {
+      "model": "custom/decorations/sandfossil"
+    }
+  }
+}

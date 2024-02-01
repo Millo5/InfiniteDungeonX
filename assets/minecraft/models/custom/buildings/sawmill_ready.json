@@ -1,0 +1,6 @@
+{
+    "parent": "custom/buildings/sawmill",
+    "textures": {
+	"default": "custom/buildings/blue"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "parent":"item/generated",
+    "textures": {
+		"layer0": "item/red_candle"
+	},
+    "overrides":[
+        {"predicate":{"custom_model_data":1},"model":"custom/decorations/plants/explodrape"},
+        {"predicate":{"custom_model_data":2},"model":"custom/decorations/plants/vigorangium"},
+        {"predicate":{"custom_model_data":3},"model":"custom/decorations/amethysts/large"}
+    ]
+}

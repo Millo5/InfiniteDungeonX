@@ -1,0 +1,8 @@
+{
+    "parent": "custom/decorations/pouches/pouch",
+    "textures": {
+	"pouch": "custom/decorations/pouches/base",
+	"icon": "custom/decorations/pouches/shineshroom",
+	"particle": "custom/decorations/pouches/base"
+    }
+}

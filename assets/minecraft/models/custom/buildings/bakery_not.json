@@ -1,0 +1,6 @@
+{
+    "parent": "custom/buildings/bakery",
+    "textures": {
+	"default": "custom/buildings/red"
+    }
+}

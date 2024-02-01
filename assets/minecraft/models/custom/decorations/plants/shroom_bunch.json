@@ -1,0 +1,84 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/decorations/plants/shroom_bunch",
+		"particle": "custom/decorations/plants/shroom_bunch"
+	},
+	"elements": [
+		{
+			"from": [6, 0, -1.2],
+			"to": [6, 16, 13.2],
+			"rotation": {"angle": 45, "axis": "y", "origin": [6, 8, 6], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0, -1.2],
+			"to": [6, 16, 13.2],
+			"rotation": {"angle": -45, "axis": "y", "origin": [6, 8, 6], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [13, 0, 2.59998],
+			"to": [13, 12, 13.39998],
+			"rotation": {"angle": 45, "axis": "y", "origin": [13, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [7.5, 7.5, 13.5, 13.5], "texture": "#0"},
+				"west": {"uv": [7.5, 7.5, 13.5, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [13, 0, 2.59998],
+			"to": [13, 12, 13.39998],
+			"rotation": {"angle": -45, "axis": "y", "origin": [13, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [7.5, 7.5, 13.5, 13.5], "texture": "#0"},
+				"west": {"uv": [7.5, 7.5, 13.5, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 0, 7.49997],
+			"to": [4, 10, 16.49997],
+			"rotation": {"angle": -45, "axis": "y", "origin": [4, 8, 12], "rescale": true},
+			"faces": {
+				"east": {"uv": [8, 0, 13, 5], "texture": "#0"},
+				"west": {"uv": [8, 0, 13, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 0, 7.49997],
+			"to": [4, 10, 16.49997],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 8, 12], "rescale": true},
+			"faces": {
+				"east": {"uv": [8, 0, 13, 5], "texture": "#0"},
+				"west": {"uv": [8, 0, 13, 5], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "shroom big",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		},
+		{
+			"name": "shroom medium",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [2, 3]
+		},
+		{
+			"name": "shroom small",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [4, 5]
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/decorations/fossil",
+		"particle": "custom/decorations/fossil"
+	},
+	"elements": [
+		{
+			"from": [-16, 0.1, -16],
+			"to": [32, 0.1, 32],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 0.1, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/spore_blossom",
+    "textures": {
+        "particle": "custom/decorations/plants/spore_blossom_red",
+        "flower": "custom/decorations/plants/spore_blossom_red",
+        "base": "minecraft:block/spore_blossom_base"
+    }
+}

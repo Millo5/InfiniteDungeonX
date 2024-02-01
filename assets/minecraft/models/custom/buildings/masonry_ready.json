@@ -1,0 +1,6 @@
+{
+    "parent": "custom/buildings/masonry",
+    "textures": {
+	"default": "custom/buildings/blue"
+    }
+}

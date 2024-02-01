@@ -1,0 +1,57 @@
+{
+    "providers": [
+        {"type":"bitmap", "file":"custom/gui/pixel.png", "ascent":-2000, "height":-3, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/pixel.png", "ascent":-200000, "height":-300, "chars":[""]},
+
+        {"type":"bitmap", "file":"custom/gui/pouch/main.png", "ascent":13, "height":256, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/pouch/button.png", "ascent":-7, "height":32, "chars":[""]},
+		{"type":"bitmap", "file":"custom/gui/pouch/button.png", "ascent":-43, "height":32, "chars":[""]},
+		{"type":"bitmap", "file":"custom/gui/pouch/button.png", "ascent":-79, "height":32, "chars":[""]},
+
+        {"type":"bitmap", "file":"custom/gui/settings/main.png", "ascent":13, "height":256, "chars":[""]},
+        
+        {"type":"bitmap", "file":"custom/gui/chattag/dev.png", "ascent":7, "height":32, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/chattag/builder.png", "ascent":7, "height":64, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/chattag/watcher.png", "ascent":7, "height":64, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/chattag/onion.png", "ascent":7, "height":32, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/chattag/player.png", "ascent":7, "height":64, "chars":[""]},
+
+        {"type":"bitmap", "file":"custom/gui/emotes.png", "ascent":7, "height":8,
+        "chars":
+            [
+                "\uEE00\uEE01\uEE02\uEE03\uEE04\uEE05\uEE06\uEE07",
+                "\uEE08\uEE09\uEE0A\uEE0B\uEE0C\uEE0D\uEE0E\uEE0F",
+                "\uEE10\uEE11\uEE12\uEE13\uEE14\uEE15\uEE16\uEE17",
+                "\uEE18\uEE19\uEE1A\uEE1B\uEE1C\uEE1D\uEE1E\uEE1F",
+                "\uEE20\uEE21\uEE22\uEE23\uEE24\uEE25\uEE26\uEE27",
+                "\uEE28\uEE29\uEE2A\uEE2B\uEE2C\uEE2D\uEE2E\uEE2F",
+                "\uEE30\uEE31\uEE32\uEE33\uEE34\uEE35\uEE36\uEE37",
+                "\uEE38\uEE39\uEE3A\uEE3B\uEE3C\uEE3D\uEE3E\uEE3F",
+                "\uEE40\uEE41\uEE42\uEE43\uEE44\uEE45\uEE46\uEE47",
+                "\uEE48\uEE49\uEE4A\uEE4B\uEE4C\uEE4D\uEE4E\uEE4F",
+                "\uEE50\uEE51\uEE52\uEE53\uEE54\uEE55\uEE56\uEE57",
+                "\uEE58\uEE59\uEE5A\uEE5B\uEE5C\uEE5D\uEE5E\uEE5F",
+                "\uEE60\uEE61\uEE62\uEE63\uEE64\uEE65\uEE66\uEE67",
+                "\uEE68\uEE69\uEE6A\uEE6B\uEE6C\uEE6D\uEE6E\uEE6F",
+                "\uEE70\uEE71\uEE72\uEE73\uEE74\uEE75\uEE76\uEE77",
+                "\uEE78\uEE79\uEE7A\uEE7B\uEE7C\uEE7D\uEE7E\uEE7F"
+            ]
+        },
+        {"type":"bitmap", "file":"custom/gui/emote/animation.png", "ascent":7, "height":8, "chars":["☻"]},
+
+        {"type":"bitmap", "file":"custom/gui/misc/cloudleft.png", "ascent":1, "height":64, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/misc/cloudright.png", "ascent":1, "height":64, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/misc/subscript_slash.png", "ascent":7, "height":8, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/misc/loading_bar.png", "ascent":7, "height":64, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/misc/emote_middle.png", "ascent":56, "height":128, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/misc/emote_top.png", "ascent":3, "height":16, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/misc/emote_bottom.png", "ascent":9, "height":16, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/misc/loading_bar_bits.png","ascent":6, "height":8, "chars":[
+		
+		"\uE500\uE501\uE502\uE503\uE504\uE505\uE506\uE507",
+		"\uE508\uE509\uE50A\uE50B\uE50C\uE50D\uE50E\uE50F"]},
+		
+        {"type":"bitmap", "file":"custom/gui/misc/bar.png", "ascent":8, "height":16, "chars":[""]}
+
+    ]
+}

@@ -1,0 +1,11 @@
+{"variants":{"instrument=harp,note=1,powered=false":{"model":"custom/blocks/basalt/basalt_bricks"},"instrument=harp,note=2,powered=false":{"model":"custom/blocks/basalt/brain_basalt"},"instrument=harp,note=3,powered=false":{"model":"custom/blocks/basalt/bubble_basalt"},"instrument=harp,note=4,powered=false":{"model":"custom/blocks/basalt/tube_basalt"},"instrument=harp,note=5,powered=false":{"model":"custom/blocks/granite/granite_tiles"},"instrument=harp,note=6,powered=false":{"model":"custom/blocks/mud/mud_tiny_bricks"},"instrument=harp,note=7,powered=false":{"model":"custom/blocks/mud/muddy_deepslate"},"instrument=harp,note=8,powered=false":{"model":"custom/blocks/sand/raw_sand"},"instrument=harp,note=9,powered=false":{"model":"custom/blocks/sand/sandstone_bricks"},"instrument=harp,note=10,powered=false":{"model":"custom/blocks/sand/sandstone_tiles"},
+"instrument=harp,note=11,powered=false":{"model":"custom/blocks/mud/mud_planks"},
+"instrument=harp,note=12,powered=false":{"model":"custom/blocks/plants/sandshroom_block"},
+"instrument=harp,note=13,powered=false":{"model":"custom/blocks/plants/orange_mushroom_block"},
+"instrument=harp,note=14,powered=false":{"model":"custom/blocks/diorite/diorite_bricks"},
+"instrument=harp,note=15,powered=false":[{"model":"custom/blocks/mud/mossy_clay"},
+{"model":"custom/blocks/mud/mossy_clay", "y":90},
+{"model":"custom/blocks/mud/mossy_clay", "y":180},
+{"model":"custom/blocks/mud/mossy_clay", "y":270}],
+"instrument=custom_head,note=1,powered=false":{"model":"custom/blocks/green_wood/green_planks"},
+"instrument=custom_head,note=2,powered=false":{"model":"custom/blocks/gray_wood/gray_planks"}}}

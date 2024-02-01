@@ -1,0 +1,18 @@
+{
+    "parent":"item/generated",
+    "textures": {
+		"layer0": "item/candle"
+	},
+    "overrides":[
+        {"predicate":{"custom_model_data":1},"model":"custom/empty"},
+		{"predicate":{"custom_model_data":2},"model":"custom/items/pouch"},
+		{"predicate":{"custom_model_data":3},"model":"custom/items/plants/explodrape"},
+		{"predicate":{"custom_model_data":4},"model":"custom/items/plants/vigorangium"},
+        {"predicate":{"custom_model_data":5},"model":"custom/items/resources/stone"},
+        {"predicate":{"custom_model_data":6},"model":"custom/items/resources/wood"},
+        {"predicate":{"custom_model_data":7},"model":"custom/items/resources/pinecone"},
+        {"predicate":{"custom_model_data":8},"model":"custom/items/resources/clay"},
+        {"predicate":{"custom_model_data":9},"model":"custom/items/plants/turnip"},
+        {"predicate":{"custom_model_data":10},"model":"custom/items/plants/flax"}
+    ]
+}

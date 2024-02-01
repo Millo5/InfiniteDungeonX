@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "custom/decorations/plants/spore_blossom_red",
+      "y": 270,
+	  "x": 90
+    },
+    "facing=north": {
+      "model": "custom/decorations/plants/spore_blossom_red",
+      "y": 180,
+	  "x": 90
+    },
+    "facing=west": {
+      "model": "custom/decorations/plants/spore_blossom_red",
+      "y": 90,
+	  "x": 90
+    },
+    "facing=south": {
+      "model": "custom/decorations/plants/spore_blossom_red",
+	  "x": 90
+    }
+  }
+}

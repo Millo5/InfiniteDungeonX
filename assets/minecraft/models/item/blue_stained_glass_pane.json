@@ -1,0 +1,14 @@
+{
+    "parent":"item/generated",
+    "textures": {
+		"layer0": "block/blue_stained_glass"
+	},
+    "overrides":[
+        {"predicate":{"custom_model_data":1},"model":"custom/buildings/sawmill_ready"},
+        {"predicate":{"custom_model_data":2},"model":"custom/buildings/sawmill_not"},
+        {"predicate":{"custom_model_data":3},"model":"custom/buildings/masonry_ready"},
+        {"predicate":{"custom_model_data":4},"model":"custom/buildings/masonry_not"},
+        {"predicate":{"custom_model_data":5},"model":"custom/buildings/bakery_ready"},
+        {"predicate":{"custom_model_data":6},"model":"custom/buildings/bakery_not"}
+    ]
+}
