@@ -1,12 +1,15 @@
 chars = "0123456789ABCDEF"
 i = 0
-for a in range(8):
-    for b in range(16):
-        if i == 8:
+width = 5
+height = 2
+
+for a in range(width):
+    for b in range(height):
+        if i == width:
             print('",')
             i = 0
         if i == 0:
             print('"',end='')
-        print('\\uEE%s%s'%(chars[a],chars[b]),end='')
+        print('\\uE4%s%s'%(chars[a],chars[b]),end='')
         i += 1
 print('"')

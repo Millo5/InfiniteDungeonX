@@ -51,7 +51,13 @@
 		"\uE500\uE501\uE502\uE503\uE504\uE505\uE506\uE507",
 		"\uE508\uE509\uE50A\uE50B\uE50C\uE50D\uE50E\uE50F"]},
 		
-        {"type":"bitmap", "file":"custom/gui/misc/bar.png", "ascent":8, "height":16, "chars":[""]}
+        {"type":"bitmap", "file":"custom/gui/misc/bar.png", "ascent":8, "height":16, "chars":[""]},
+		
+		{"type":"bitmap", "file":"custom/gui/logo/logos.png","ascent":6, "height":115, "chars":[
+			"\uE600\uE601\uE602\uE603\uE604",
+			"\uE605\uE606\uE607\uE608\uE609"
+			]
+		}
 
     ]
 }
